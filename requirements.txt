@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+bcrypt
+python-dotenv
+ratelimit
+reportlab
+pillow
